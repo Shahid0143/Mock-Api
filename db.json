@@ -2347,13 +2347,7 @@
       "name": "Boys' Washed Out™ Shorts",
       "price": "$10.98 "
     },
-    {
-      "id": 64,
-      "image": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2008791_257_f?$x1_grid$&v=1676388993",
-      "description": "An everyday pant with stretch fabric that protects from sun and splashes.",
-      "name": "Boys' Daytrekker™ Pants",
-      "price": "$22.98 "
-    },
+    
     {
       "id": 65,
       "image": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1557061_432_f?$x1_grid$&v=1676388993",
@@ -2395,22 +2389,93 @@
       "description": "A versatile jacket combining water-resistant overlays and cozy fleece in a range of fun prints.",
       "name": "Kids' Infant Steens Mountain™ Overlay Hooded Jacket",
       "price": "$15.92 "
-    },
-    {
-      "id": 71,
-      "image": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1908231_010_f?$x1_grid$&v=1676388993",
-      "description": "A multi-pocket, waterproof and insulated hooded ski jacket with a powder skirt.",
-      "name": "Boys' Arctic Blast™ Jacket",
-      "price": "$50.92 "
-    },
-    {
-      "id": 72,
-      "image": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1568041_616_f?$x1_grid$&v=1676388993",
-      "description": "A cozy zip-up hooded jacket crafted from our rugged, warm, and insanely soft MTR fleece for all seas...",
-      "name": "Girl's Benton™ Springs II Hooded Fleece Jacket",
-      "price": "$25.91 "
     }
-   ]
-
+    
+   
+   ],
+   "events": [
+    {
+      "id": 1,
+      "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
+      "name": "Music Festival",
+      "description": "A vibrant music festival featuring top artists from around the world.",
+      "date": "2023-09-15",
+      "location": "Delhi",
+      "category": "Music",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
+      "name": "Soccer Match",
+      "description": "An exciting soccer match between two rival teams.",
+      "date": "2023-08-28",
+      "location": "Chennai",
+      "category": "Sports",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
+      "name": "Coding Workshop",
+      "description": "Learn the art of coding with experienced professionals.",
+      "date": "2023-09-05",
+      "location": "Banglore",
+      "category": "Workshop",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "poster": "https://media.npr.org/assets/img/2017/12/21/_harlan_nprmusic10years-149_wide-78a7596027f7b4c023a21ad85f078e8a4165c230-s800-c85.jpg",
+      "name": "Rock Concert",
+      "description": "A high-energy rock concert with electrifying performances.",
+      "date": "2023-09-20",
+      "location": "Mumbai",
+      "category": "Music",
+      "price": 400
+    },
+    {
+      "poster": "https://i.graphicmama.com/uploads/2023/3/64147a59da9cc-60488064dc153-Cute%20Panda%20Animated%20GIFs%20Collection.gif",
+      "name": "Panda",
+      "description": "i am paanda",
+      "date": "2023-08-16",
+      "location": "Antartica",
+      "category": "Workshop",
+      "price": 4000,
+      "id": 5
+    },
+    {
+      "poster": "https://i.gifer.com/6Gn3.gif",
+      "name": "Picachu",
+      "description": "i am pickachu",
+      "date": "2023-08-25",
+      "location": "India",
+      "category": "Sports",
+      "price": 1000,
+      "id": 6
+    },
+    {
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2VJge3tBMo3Ou0p51pXeU2KVJySnKaR-zQ&usqp=CAU",
+      "name": "Natak",
+      "description": "i am natak",
+      "date": "2023-09-01",
+      "location": "China",
+      "category": "Music",
+      "price": 2000,
+      "id": 7
+    },
+    {
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYebXaOMdtW-QDGC4u_dcqdKyVsOfjzwBm66bwMysUVms2qG4uIzplGFlmItHEpyei1iQ&usqp=CAU",
+      "name": "Superman",
+      "description": "I am supermane",
+      "date": "2023-08-16",
+      "location": "Turkey",
+      "category": "Sports",
+      "price": 5000,
+      "id": 8
+    }
+  ]
+   
+  
         
  }
